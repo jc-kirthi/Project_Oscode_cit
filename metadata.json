@@ -1,0 +1,7 @@
+{
+  "name": "Vibe-Tagger",
+  "description": "An ultra-modern, AI-powered social media tool that generates high-energy captions and trending hashtags by analyzing your images with the power of Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
